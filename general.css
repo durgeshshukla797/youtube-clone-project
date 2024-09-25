@@ -1,0 +1,9 @@
+p{
+  font-family: Roboto,Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;/*by default bottom and top par margin aata hai paragraph me toh sabke liye ek sath hata denge*/
+}
+
+body{
+  margin:0;/*in all direction */
+}
